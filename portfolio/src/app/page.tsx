@@ -10,7 +10,7 @@ export default function Home() {
       <div className="ml-4 mt-24 sm:ml-10 lg:ml-20 flex-grow">
         <div>
           <p className="text-9xl">Hi,</p>
-          <p className="text-4xl mt-4 mr-6">I'm an Engineering Undergrad...</p>
+          <p className="text-4xl mt-4 mr-6">I&apos;m an Engineering Undergrad...</p> {/* Escaped apostrophe */}
         </div>
         <div className="text-lg mt-4 mr-6">
           <p>

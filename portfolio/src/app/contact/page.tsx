@@ -6,7 +6,7 @@ const contact = () => {
           <p>Contact</p>
         </div>
         <div className="text-lg">
-          <p className="mt-4">I'd love to hear from you.</p>
+          <p className="mt-4">I&apos;d love to hear from you.</p> {/* Fixed apostrophe */}
           <p>
             You can email me at{" "}
             <a href="mailto:shreyanshsriv5@gmail.com" target="_blank">

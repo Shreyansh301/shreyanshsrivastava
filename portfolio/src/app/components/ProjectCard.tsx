@@ -1,6 +1,12 @@
 import Link from 'next/link';
 
-const ProjectCard = ({ href, projectName, category }: any) => {
+interface ProjectCardProps {
+  href: string;
+  projectName: string;
+  category: string;
+}
+
+const ProjectCard = ({ href, projectName, category }: ProjectCardProps) => {
   return (
     <div className="grid">
       <Link href={href} className="pt-4 font-bold">
