@@ -6,7 +6,7 @@ const resume = () => {
           <p>Resume</p>
           {/* Download Button */}
           <a
-            href="https://drive.google.com/file/d/1Oxg5m52qN6776bkGyTZ12VeHhZwLFemj/view?usp=sharing" // path to resume file 
+            href="https://drive.google.com/file/d/17-KHlk4IgpBfIadz3BOucOT0_4icB_Oi/view?usp=sharing" // path to resume file 
             target="_blank"
             download="VIT_CSE_Shreyansh_Srivastava.pdf" // Name of the file when downloaded
             className="relative bg-gray-700 text-white text-sm py-1 px-3 rounded hover:bg-gray-800 shadow group"
@@ -34,7 +34,7 @@ const resume = () => {
             <p className="mt-4 font-bold text-purple-300">experience</p>
 
             <div className="pb-4">
-              <p>ConvoHub | Sept 2024 - Present</p>
+              <p>ConvoHub | Sept 2024 - November 2024</p>
               <p className="font-semibold">
                 Technologies: Socket.io, Postgres, Next.js, TypeScript
               </p>
