@@ -6,7 +6,7 @@ const resume = () => {
           <p>Resume</p>
           {/* Download Button */}
           <a
-            href="https://drive.google.com/file/d/17-KHlk4IgpBfIadz3BOucOT0_4icB_Oi/view?usp=sharing" // path to resume file 
+            href="https://drive.google.com/file/d/1eaEZk6Qcn9-Xs11tLYCVdWcWguUuMwc5/view?usp=sharing" // path to resume file 
             target="_blank"
             download="VIT_CSE_Shreyansh_Srivastava.pdf" // Name of the file when downloaded
             className="relative bg-gray-700 text-white text-sm py-1 px-3 rounded hover:bg-gray-800 shadow group"
